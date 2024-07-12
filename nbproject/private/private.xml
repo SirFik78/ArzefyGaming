@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/fikri/Documents/NetBeansProjects/ArzefyGaming/src/java/Servlet/ItemServlet1.java</file>
+            <file>file:/C:/Users/fikri/Documents/NetBeansProjects/ArzefyGaming/src/java/Servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/fikri/Documents/NetBeansProjects/ArzefyGaming/web/succesdelete.jsp</file>
+            <file>file:/C:/Users/fikri/Documents/NetBeansProjects/ArzefyGaming/web/header.jsp</file>
+            <file>file:/C:/Users/fikri/Documents/NetBeansProjects/ArzefyGaming/src/java/Model/loginmodel.java</file>
+            <file>file:/C:/Users/fikri/Documents/NetBeansProjects/ArzefyGaming/src/java/Model/History.java</file>
+            <file>file:/C:/Users/fikri/Documents/NetBeansProjects/ArzefyGaming/src/java/Model/akunmodel.java</file>
+            <file>file:/C:/Users/fikri/Documents/NetBeansProjects/ArzefyGaming/src/java/Controller/ArzefyDAO.java</file>
+            <file>file:/C:/Users/fikri/Documents/NetBeansProjects/ArzefyGaming/src/java/Servlet/DeleteServlet.java</file>
+            <file>file:/C:/Users/fikri/Documents/NetBeansProjects/ArzefyGaming/src/java/Servlet/SearchHistoryServlet.java</file>
+            <file>file:/C:/Users/fikri/Documents/NetBeansProjects/ArzefyGaming/src/java/Servlet/RegisterServlet.java</file>
+            <file>file:/C:/Users/fikri/Documents/NetBeansProjects/ArzefyGaming/web/ml.jsp</file>
+            <file>file:/C:/Users/fikri/Documents/NetBeansProjects/ArzefyGaming/web/CSS/header.css</file>
+            <file>file:/C:/Users/fikri/Documents/NetBeansProjects/ArzefyGaming/web/CSS/history.css</file>
+            <file>file:/C:/Users/fikri/Documents/NetBeansProjects/ArzefyGaming/web/index.jsp</file>
+            <file>file:/C:/Users/fikri/Documents/NetBeansProjects/ArzefyGaming/web/profil.jsp</file>
+            <file>file:/C:/Users/fikri/Documents/NetBeansProjects/ArzefyGaming/web/signin.jsp</file>
+            <file>file:/C:/Users/fikri/Documents/NetBeansProjects/ArzefyGaming/src/java/Model/Profil.java</file>
+            <file>file:/C:/Users/fikri/Documents/NetBeansProjects/ArzefyGaming/src/java/Controller/HistoryDAO.java</file>
+            <file>file:/C:/Users/fikri/Documents/NetBeansProjects/ArzefyGaming/web/orderHistory.jsp</file>
+        </group>
+    </open-files>
+</project-private>
