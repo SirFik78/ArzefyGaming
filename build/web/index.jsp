@@ -14,7 +14,6 @@
 
         <script src="https://code.jquery.com/jquery.js"></script>
          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <title>Arzevy Gaming Store</title>
 
     </head>
     <body>

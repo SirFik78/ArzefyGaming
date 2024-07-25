@@ -93,10 +93,6 @@
                     }
                 } catch (SQLException e) {
                     e.printStackTrace();
-                } finally {
-                    if (rs != null) try { rs.close(); } catch (SQLException ignore) {}
-                    if (stmt != null) try { stmt.close(); } catch (SQLException ignore) {}
-                    if (conn != null) try { conn.close(); } catch (SQLException ignore) {}
                 }
                 %>
             </tbody>
